@@ -51,7 +51,7 @@ function Footer() {
             files shown by the video providers.
           </p>
           <p className="text-[#9B9BA3] max-md:text-[14px]">
-            © {website_name}. All rights reserved.
+            © 2025 {website_name}. All rights reserved.
           </p>
         </div>
       </div>
