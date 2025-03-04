@@ -10,7 +10,7 @@ function Footer() {
         className="w-full text-left max-[500px]:hidden"
       >
         <img
-          src="https://i.ibb.co/tMsQ8rY5/Aznimex-logo.png"
+          src="https://i.ibb.co/d0wc9M7q/aznimex-logo.png"
           alt={logoTitle}
           className="w-[200px] h-[100px]"
         />
